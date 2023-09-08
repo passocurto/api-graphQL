@@ -1,6 +1,6 @@
 const faker = require('faker');
 
-const TOTAL_PAGES = 5;
+const TOTAL_PAGES = 1;
 
 const baseProducts = [
   { name: 'Caneca de cerâmica rústica', description: faker.lorem.paragraph(), image_url: 'https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg', category: 'mugs' },
